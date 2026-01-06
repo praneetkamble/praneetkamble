@@ -28,6 +28,9 @@ I'm **Praneet Kamble**, an Engineering Student passionate about programming and 
 
 ⭐ Thanks for visiting my profile!
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=praneetkamble&color=green)
+
 <!--
 **praneetkamble/praneetkamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
