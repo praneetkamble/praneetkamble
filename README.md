@@ -1,24 +1,29 @@
-<img src="banner.png" width="100%" />
+<img src="banner.png" width="100%" alt="M10 Banner"/>
 
-<h1 align="center">Hi 👋, I'm Praneet Kamble</h1>
+<h1 align="center">👋 Hi, I'm Praneet Kamble</h1>
 
 <p align="center">
-  <b>Engineering Student • Software Learner • Future Full-Stack Developer</b>
+  <strong>Engineering Student • Software Developer • Frontend Enthusiast</strong>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Interactive+Web+Experiences;Learning+React+%26+Three.js;Passionate+About+AI+and+Software+Development;Turning+Ideas+Into+Reality" />
+</p>
+
+---
 
 ## 🚀 About Me
 
 * 🎓 Engineering Student
-* 💻 Building web applications & interactive experiences
-* 🌱 Learning React.js, Three.js & Modern Frontend Development
-* 🤖 Interested in AI, Linux & Backend Development
-* 🎯 Focused on strong fundamentals & real-world projects
+* 💻 Building modern web applications
+* 🌱 Learning **React.js**, **Three.js**, and modern frontend technologies
+* 🤖 Interested in **AI**, **Linux**, and **Backend Development**
+* 🎯 Focused on real-world projects and strong fundamentals
+* ⚡ Always learning, always improving
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -42,7 +47,7 @@
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
@@ -51,8 +56,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=praneetkamble&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneetkamble&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -69,21 +78,21 @@ Predict academic percentile based on examination scores.
 
 ### 🎨 Interactive Portfolio
 
-A futuristic portfolio featuring animations, React and Three.js.
+Modern portfolio featuring animations, React and Three.js.
 
 ### 🧮 Smart Calculator
 
-Responsive calculator with modern UI and advanced functionality.
+Responsive calculator with a clean UI and advanced functionality.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
-* Learn Advanced React
-* Master Three.js
-* Build Full-Stack Projects
+* Master React Ecosystem
+* Learn Advanced Three.js
+* Build Full-Stack Applications
 * Contribute to Open Source
-* Land a Software Development Internship
+* Secure a Software Development Internship
 
 ---
 
@@ -92,15 +101,15 @@ Responsive calculator with modern UI and advanced functionality.
 <p align="center">
 
 <a href="https://github.com/praneetkamble">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/praneet-kamble-1b03b13a5/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:praneetkamble051112@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -108,9 +117,9 @@ Responsive calculator with modern UI and advanced functionality.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=blueviolet"/>
 </p>
 
 <p align="center">
-⚡ Building today what I imagined yesterday.
+  <strong>⚡ Building today what I imagined yesterday.</strong>
 </p>
