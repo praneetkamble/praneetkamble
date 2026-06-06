@@ -1,102 +1,159 @@
-<img src="banner.png" width="100%" alt="M10 Banner"/>
+<img src="banner.png" width="100%" alt="M10 Banner">
 
 <h1 align="center">👋 Hi, I'm Praneet Kamble</h1>
 
+<h3 align="center">
+Engineering Student • Software Developer • Frontend Enthusiast
+</h3>
+
 <p align="center">
-  <strong>Engineering Student • Software Developer • Frontend Enthusiast</strong>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;React+%7C+Three.js+Developer;Frontend+Engineering+Enthusiast;Turning+Ideas+Into+Reality;Build+Learn+Create+Repeat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Interactive+Web+Experiences;Learning+React+%26+Three.js;Passionate+About+AI+and+Software+Development;Turning+Ideas+Into+Reality" />
+<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 Engineering Student
-* 💻 Building modern web applications
-* 🌱 Learning **React.js**, **Three.js**, and modern frontend technologies
-* 🤖 Interested in **AI**, **Linux**, and **Backend Development**
-* 🎯 Focused on real-world projects and strong fundamentals
-* ⚡ Always learning, always improving
+```yaml
+Name: Praneet Kamble
+
+Role:
+  - Engineering Student
+  - Software Developer
+
+Currently Learning:
+  - React.js
+  - Three.js
+  - Advanced JavaScript
+
+Interests:
+  - Frontend Development
+  - AI
+  - Linux
+  - Backend Development
+
+Mission:
+  Build impactful products and create exceptional user experiences.
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,git,github,vscode,figma" />
 </p>
 
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📈 Contribution Activity
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praneetkamble&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 📊 Percentile Predictor
 
 Predict academic percentile based on examination scores.
 
+**Stack**
+
+* Python
+* HTML
+* CSS
+
+</td>
+
+<td width="50%">
+
 ### 🎨 Interactive Portfolio
 
-Modern portfolio featuring animations, React and Three.js.
+Futuristic portfolio featuring animations and immersive UI.
+
+**Stack**
+
+* React
+* Three.js
+* CSS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🧮 Smart Calculator
 
-Responsive calculator with a clean UI and advanced functionality.
+Modern calculator with responsive design and clean UI.
+
+**Stack**
+
+* JavaScript
+* HTML
+* CSS
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Coming Soon
+
+Always building and experimenting with new ideas.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Current Focus
 
-* Master React Ecosystem
-* Learn Advanced Three.js
-* Build Full-Stack Applications
-* Contribute to Open Source
-* Secure a Software Development Internship
+* ⚛️ React Ecosystem
+* 🎮 Three.js & Interactive Experiences
+* 📚 Data Structures & Algorithms
+* 🎨 UI/UX Design
+* 🌐 Full Stack Development
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -117,10 +174,13 @@ Responsive calculator with a clean UI and advanced functionality.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=blueviolet"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00bfff&height=120&section=footer"/>
 </p>
+
+<h3 align="center">
+⚡ BUILD • LEARN • CREATE • REPEAT ⚡
+</h3>
 
 <p align="center">
-  <strong>⚡ Building today what I imagined yesterday.</strong>
+Turning Ideas Into Reality 🚀
 </p>
-
