@@ -1,165 +1,186 @@
-<img src="banner.png" width="100%" />
+<img src="banner.png" width="100%" alt="M10 Banner">
 
-<div align="center">
+<h1 align="center">👋 Hi, I'm Praneet Kamble</h1>
 
-# ⚡ M10
+<h3 align="center">
+Engineering Student • Software Developer • Frontend Enthusiast
+</h3>
 
-### PRANEET KAMBLE
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;React+%7C+Three.js+Developer;Frontend+Engineering+Enthusiast;Turning+Ideas+Into+Reality;Build+Learn+Create+Repeat" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Engineer;React+%7C+Three.js+Developer;Building+Future+Ready+Experiences;M10+OS+ONLINE" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=00BFFF"/>
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=0e75b6" />
+</p>
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚡ SYSTEM
+# 🚀 About Me
 
 ```yaml
-STATUS: ONLINE
+Name: Praneet Kamble
 
-ROLE:
-  Software Developer
+Role:
+  - Engineering Student
+  - Software Developer
 
-FOCUS:
-  React.js
-  Three.js
-  JavaScript
+Currently Learning:
+  - React.js
+  - Three.js
+  - Advanced JavaScript
 
-MODE:
-  BUILDING
+Interests:
+  - Frontend Development
+  - AI
+  - Linux
+  - Backend Development
 
-VERSION:
-  M10 OS v2.0
+Mission:
+  Build impactful products and create exceptional user experiences.
 ```
 
-</td>
+---
 
-<td width="50%" valign="top">
+# 🛠 Tech Stack
 
-## 🎯 CURRENT MISSION
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,git,github,vscode,figma" />
+</p>
 
-```diff
-+ Interactive Web Experiences
-
-+ Modern UI Engineering
-
-+ Full Stack Development
-
-+ Open Source
-
-+ Problem Solving
-```
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
 
 ---
 
-## 🛠 TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,python,c,git,github,vscode,figma,linux" />
-
-</div>
-
----
-
-## 🚀 PROJECT GRID
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🎨 PORTFOLIO
-
-React • Three.js
-
-Modern immersive portfolio experience.
-
-</td>
-
-<td width="50%">
-
-### 📊 PERCENTILE PREDICTOR
-
-Python
-
-Academic performance prediction system.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🧮 SMART CALCULATOR
-
-JavaScript
-
-Minimal and responsive calculator.
-
-</td>
-
-<td width="50%">
-
-### 🚀 NEXT PROJECT
-
-Currently under development.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 ANALYTICS
+# 📊 GitHub Analytics
 
 <p align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-## 🌐 NETWORK
+# 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praneetkamble&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📊 Percentile Predictor
+
+Predict academic percentile based on examination scores.
+
+**Stack**
+
+* Python
+* HTML
+* CSS
+
+</td>
+
+<td width="50%">
+
+### 🎨 Interactive Portfolio
+
+Futuristic portfolio featuring animations and immersive UI.
+
+**Stack**
+
+* React
+* Three.js
+* CSS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧮 Smart Calculator
+
+Modern calculator with responsive design and clean UI.
+
+**Stack**
+
+* JavaScript
+* HTML
+* CSS
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Coming Soon
+
+Always building and experimenting with new ideas.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 Current Focus
+
+* ⚛️ React Ecosystem
+* 🎮 Three.js & Interactive Experiences
+* 📚 Data Structures & Algorithms
+* 🎨 UI/UX Design
+* 🌐 Full Stack Development
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/praneetkamble">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/praneet-kamble-1b03b13a5/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:praneetkamble051112@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00bfff&height=120&section=footer"/>
+</p>
 
-# ⚡ BUILD • LEARN • CREATE • REPEAT ⚡
+<h3 align="center">
+⚡ BUILD • LEARN • CREATE • REPEAT ⚡
+</h3>
 
-### M10 OS ONLINE
-
-</div>
+<p align="center">
+Turning Ideas Into Reality 🚀
+</p>
