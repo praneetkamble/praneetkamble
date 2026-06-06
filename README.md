@@ -1,94 +1,186 @@
-<div align="center">
+<img src="banner.png" width="100%" alt="M10 Banner">
 
-# Hey, I'm Praneet Kamble 👋
+<h1 align="center">👋 Hi, I'm Praneet Kamble</h1>
 
-**Engineering Student · Frontend Developer · Building cool things on the web**
+<h3 align="center">
+Engineering Student • Software Developer • Frontend Enthusiast
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneet-kamble-1b03b13a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/praneetkamble)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:praneetkamble051112@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=praneetkamble&style=flat&color=0e75b6)](https://github.com/praneetkamble)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;React+%7C+Three.js+Developer;Frontend+Engineering+Enthusiast;Turning+Ideas+Into+Reality;Build+Learn+Create+Repeat" />
+</p>
 
-</div>
-
----
-
-## About me
-
-I'm a Computer Engineering student passionate about building modern web experiences. I love turning ideas into reality through clean code and thoughtful UI — from interactive 3D experiences with Three.js to AI-powered tools.
-
-- Currently mastering **React.js**, **Three.js**, and full-stack development
-- Interested in **Frontend Engineering**, **AI integrations**, and **Linux**
-- Looking to collaborate on open-source projects and creative web apps
-- Ask me about **JavaScript**, **React**, or **C programming**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=0e75b6" />
+</p>
 
 ---
 
-## Tech stack
+# 🚀 About Me
 
-**Languages**
+```yaml
+Name: Praneet Kamble
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Role:
+  - Engineering Student
+  - Software Developer
 
-**Frameworks & Libraries**
+Currently Learning:
+  - React.js
+  - Three.js
+  - Advanced JavaScript
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+Interests:
+  - Frontend Development
+  - AI
+  - Linux
+  - Backend Development
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## Featured projects
-
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| [Interactive Portfolio](https://github.com/praneetkamble) | Futuristic portfolio with 3D animations and immersive UI | React · Three.js · CSS | 🚧 In progress |
-| [FixIt AI](https://github.com/praneetkamble/fixit-ai) | AI-powered tool — describe it here in one line | JavaScript | 🔨 Building |
-| [Rubric AI](https://github.com/praneetkamble/rubric_ai) | AI-powered tool — describe it here in one line | Python | 🔨 Building |
-| [Percentile Predictor](https://github.com/praneetkamble) | Predicts academic percentile based on exam scores | Python · HTML · CSS | ✅ Done |
-| [Public Safety System](https://github.com/praneetkamble/Public_Safety_System) | Unified civic services system | C | ✅ Done |
-| [Smart Calculator](https://github.com/praneetkamble) | Clean calculator with responsive design | JavaScript · HTML · CSS | ✅ Done |
+Mission:
+  Build impactful products and create exceptional user experiences.
+```
 
 ---
 
-## GitHub stats
+# 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,git,github,vscode,figma" />
+</p>
 
-![Praneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneetkamble&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneetkamble&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
 
 ---
 
-## Contribution graph
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praneetkamble&theme=tokyo-night&hide_border=true&area=true)
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight" />
+</p>
 
-</div>
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+# 📈 Contribution Activity
 
-*Open to internships, collaborations, and interesting problems.*
-**Let's build something great.**
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praneetkamble&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-</div>
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📊 Percentile Predictor
+
+Predict academic percentile based on examination scores.
+
+**Stack**
+
+* Python
+* HTML
+* CSS
+
+</td>
+
+<td width="50%">
+
+### 🎨 Interactive Portfolio
+
+Futuristic portfolio featuring animations and immersive UI.
+
+**Stack**
+
+* React
+* Three.js
+* CSS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧮 Smart Calculator
+
+Modern calculator with responsive design and clean UI.
+
+**Stack**
+
+* JavaScript
+* HTML
+* CSS
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Coming Soon
+
+Always building and experimenting with new ideas.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 Current Focus
+
+* ⚛️ React Ecosystem
+* 🎮 Three.js & Interactive Experiences
+* 📚 Data Structures & Algorithms
+* 🎨 UI/UX Design
+* 🌐 Full Stack Development
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/praneetkamble">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/praneet-kamble-1b03b13a5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:praneetkamble051112@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00bfff&height=120&section=footer"/>
+</p>
+
+<h3 align="center">
+⚡ BUILD • LEARN • CREATE • REPEAT ⚡
+</h3>
+
+<p align="center">
+Turning Ideas Into Reality 🚀
+</p>
