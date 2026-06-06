@@ -1,18 +1,22 @@
-<img src="banner.png" width="100%" alt="M10 Banner"/>
+<img src="banner.png" width="100%" alt="M10 Banner">
 
 <h1 align="center">👋 Hi, I'm Praneet Kamble</h1>
 
+<h3 align="center">
+Engineering Student • Software Developer • Frontend Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Software+Developer;Frontend+Developer;React+%7C+Three.js+Learner;Building+Interactive+Web+Experiences;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;React+%7C+Three.js+Developer;Frontend+Engineering+Enthusiast;Turning+Ideas+Into+Reality;Build+Learn+Create+Repeat" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=0E75B6" />
+<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-# ⚡ About Me
+# 🚀 About Me
 
 ```yaml
 Name: Praneet Kamble
@@ -32,21 +36,20 @@ Interests:
   - Linux
   - Backend Development
 
-Goal:
-  - Build impactful products
-  - Master modern web technologies
-  - Secure a Software Development Internship
-
-Motto:
-  "Turning Ideas Into Reality"
+Mission:
+  Build impactful products and create exceptional user experiences.
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,threejs,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,git,github,vscode,figma" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
@@ -54,16 +57,24 @@ Motto:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praneetkamble&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -72,13 +83,14 @@ Motto:
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 📊 Percentile Predictor
 
 Predict academic percentile based on examination scores.
 
-**Tech Used**
+**Stack**
 
 * Python
 * HTML
@@ -90,25 +102,27 @@ Predict academic percentile based on examination scores.
 
 ### 🎨 Interactive Portfolio
 
-Futuristic portfolio built with modern animations.
+Futuristic portfolio featuring animations and immersive UI.
 
-**Tech Used**
+**Stack**
 
 * React
 * Three.js
 * CSS
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🧮 Smart Calculator
 
-Modern responsive calculator with advanced functionality.
+Modern calculator with responsive design and clean UI.
 
-**Tech Used**
+**Stack**
 
 * JavaScript
 * HTML
@@ -118,34 +132,24 @@ Modern responsive calculator with advanced functionality.
 
 <td width="50%">
 
-### 🚀 Upcoming Project
+### 🚀 More Coming Soon
 
-Currently planning new innovative ideas.
+Always building and experimenting with new ideas.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📈 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praneetkamble&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 # 🎯 Current Focus
 
-```text
-✓ React.js
-✓ Three.js
-✓ Advanced JavaScript
-✓ UI/UX Design
-✓ Data Structures & Algorithms
-✓ Open Source Contributions
-```
+* ⚛️ React Ecosystem
+* 🎮 Three.js & Interactive Experiences
+* 📚 Data Structures & Algorithms
+* 🎨 UI/UX Design
+* 🌐 Full Stack Development
 
 ---
 
@@ -154,39 +158,29 @@ Currently planning new innovative ideas.
 <p align="center">
 
 <a href="https://github.com/praneetkamble">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/praneet-kamble-1b03b13a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:praneetkamble051112@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-```md
-![Snake animation](https://github.com/praneetkamble/praneetkamble/blob/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praneetkamble&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00bfff&height=120&section=footer"/>
 </p>
-
----
 
 <h3 align="center">
 ⚡ BUILD • LEARN • CREATE • REPEAT ⚡
 </h3>
 
 <p align="center">
-Turning Ideas Into Reality
+Turning Ideas Into Reality 🚀
 </p>
