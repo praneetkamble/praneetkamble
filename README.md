@@ -1,52 +1,56 @@
 <img src="banner.png" width="100%" />
 
-<h1 align="center">⚡ M10 // PRANEET KAMBLE ⚡</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer • Frontend Engineer • Creative Technologist
-</h3>
+# ⚡ M10 // PRANEET KAMBLE ⚡
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Interactive+Web+Experiences;React+%7C+Three.js+Developer;Frontend+Engineering+Enthusiast;Turning+Ideas+Into+Reality;Build+Learn+Create+Repeat" />
-</p>
+### SOFTWARE DEVELOPER • FRONTEND ENGINEER • CREATIVE TECHNOLOGIST
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=00BFFF"/>
-<img src="https://img.shields.io/github/followers/praneetkamble?style=for-the-badge&color=00BFFF"/>
-<img src="https://img.shields.io/github/stars/praneetkamble?style=for-the-badge&color=00BFFF"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=M10+OS+INITIALIZING...;Software+Developer;React+%7C+Three.js+Developer;Building+Immersive+Digital+Experiences;Turning+Ideas+Into+Reality;Build+Learn+Create+Repeat" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=00BFFF" />
+<img src="https://img.shields.io/github/followers/praneetkamble?style=for-the-badge&color=00BFFF" />
+<img src="https://img.shields.io/github/stars/praneetkamble?style=for-the-badge&color=00BFFF" />
+
+</div>
 
 ---
 
-# ⚡ SYSTEM STATUS
+# ⚡ M10 SYSTEM STATUS
 
 ```yaml
-Name: Praneet Kamble
+NAME: Praneet Kamble
 
-Codename: M10
+CODENAME: M10
 
-Status: ONLINE
+STATUS: ONLINE
 
-Role:
+ROLE:
   - Software Developer
   - Engineering Student
 
-Current Focus:
+SPECIALIZATION:
+  - Frontend Development
+  - Interactive Web Experiences
+  - UI Engineering
+
+CURRENTLY MASTERING:
   - React.js
   - Three.js
   - Advanced JavaScript
-  - Modern UI/UX
 
-Interests:
-  - Frontend Development
-  - AI
+INTERESTS:
+  - Artificial Intelligence
   - Linux
   - Backend Development
+  - Product Design
 
-Mission:
-  Transform ideas into immersive digital experiences.
+MISSION:
+  Build products people remember.
 
-Mode:
+MOTTO:
   BUILD • LEARN • CREATE • REPEAT
 ```
 
@@ -54,97 +58,132 @@ Mode:
 
 # 🛠 TECH ARSENAL
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,git,github,vscode,figma,linux" />
-</p>
+
+</div>
 
 ---
 
-# 📊 DEVELOPMENT ANALYTICS
+# 📊 M10 ANALYTICS DASHBOARD
 
 <p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneetkamble&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneetkamble&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneetkamble&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praneetkamble&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://github.com/praneetkamble">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=praneetkamble&repo=REPLACE_WITH_YOUR_REPO&theme=tokyonight"/>
-</a>
+<td width="50%">
 
-<a href="https://github.com/praneetkamble">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=praneetkamble&repo=REPLACE_WITH_YOUR_REPO&theme=tokyonight"/>
-</a>
+### 🎨 Interactive Portfolio
 
-</p>
+```diff
++ React.js
++ Three.js
++ Modern UI/UX
++ Smooth Animations
+```
 
-<p align="center">
+</td>
 
-<a href="https://github.com/praneetkamble">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=praneetkamble&repo=REPLACE_WITH_YOUR_REPO&theme=tokyonight"/>
-</a>
+<td width="50%">
 
-<a href="https://github.com/praneetkamble">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=praneetkamble&repo=REPLACE_WITH_YOUR_REPO&theme=tokyonight"/>
-</a>
+### 📊 Percentile Predictor
 
-</p>
+```diff
++ Python
++ Data Analysis
++ Smart Prediction
++ Clean Interface
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧮 Smart Calculator
+
+```diff
++ JavaScript
++ Responsive Design
++ Modern UI
++ Fast Performance
+```
+
+</td>
+
+<td width="50%">
+
+### 🚀 Future Projects
+
+```diff
++ AI Applications
++ SaaS Products
++ Open Source
++ Experimental Ideas
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🎯 CURRENT MISSION
+# 🎯 CURRENT MISSION LOG
 
 ```text
-[█████████░] React.js
+[██████████] HTML/CSS
 
-[███████░░░] Three.js
+[████████░░] JavaScript
 
-[████████░░] Frontend Development
+[███████░░░] React.js
 
-[██████░░░░] Backend Development
+[█████░░░░░] Three.js
 
-[███████░░░] Data Structures & Algorithms
+[██████░░░░] DSA
+
+[████░░░░░░] Backend Development
 ```
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 ACHIEVEMENTS UNLOCKED
 
 ```diff
 + Building Modern Web Applications
 + Learning React Ecosystem
 + Exploring Three.js
 + UI/UX Enthusiast
-+ Continuous Learner
++ Open Source Aspirant
++ Consistent Learner
 + Future Full Stack Developer
 ```
 
 ---
 
-# 🌐 CONNECT
+# 🌐 CONNECT WITH M10
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/praneetkamble">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -158,18 +197,16 @@ Mode:
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,100:00BFFF&section=footer"/>
-</p>
+<div align="center">
 
-<h2 align="center">
-⚡ M10 • BUILD • LEARN • CREATE • REPEAT ⚡
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,100:00BFFF&section=footer&text=M10&fontSize=60&fontColor=ffffff"/>
 
-<p align="center">
-Turning Ideas Into Reality 🚀
-</p>
+## ⚡ TURNING IDEAS INTO REALITY ⚡
+
+### SOFTWARE • DESIGN • INNOVATION
+
+</div>
