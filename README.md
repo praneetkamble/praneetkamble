@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" alt="M10 Banner">
+<img src="banner.png" width="100%" alt="Praneet Kamble — Full-stack developer, AI tools builder">
 
 <h1 align="center">👋 Hi, I'm Praneet Kamble</h1>
 
@@ -7,7 +7,7 @@ Full-stack Developer • AI Tools Builder • Engineering Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-stack+developer;Building+AI+tools+that+cite+their+sources;React+%7C+Node.js+%7C+Python;Shipping+tested%2C+honest+software" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=50&lines=Full-stack+developer;Building+AI+tools+that+cite+their+sources;React+%7C+Node.js+%7C+Python;Shipping+tested%2C+honest+software" alt="Typing animation: Full-stack developer · Building AI tools that cite their sources · React, Node.js, Python · Shipping tested, honest software" />
 </p>
 
 <p align="center">
@@ -18,7 +18,11 @@ Full-stack Developer • AI Tools Builder • Engineering Student
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=praneetkamble&style=for-the-badge&color=0e75b6" alt="Profile views" />
+<b>Quick links</b> &nbsp;·&nbsp;
+<a href="https://m-10-nu.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://github.com/praneetkamble?tab=repositories">GitHub repos</a> &nbsp;·&nbsp;
+<a href="mailto:praneetkamble051112@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://wa.me/917249364351">WhatsApp</a>
 </p>
 
 ---
@@ -50,35 +54,9 @@ Mission:
 
 # 🧰 What I Do
 
-<table>
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-### 🌐 Full-stack web apps
-
-React front ends with Node.js and Python back ends.
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### 🧠 AI and RAG tools
-
-Retrieval with citations, agents with human approval.
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### ⚙️ Automation and Windows tooling
-
-PC assistants and scripts with safety gates.
-
-</td>
-
-</tr>
-</table>
+* 🌐 **Full-stack web apps:** React front ends with Node.js and Python back ends.
+* 🧠 **AI and RAG tools:** retrieval with citations, agents with human approval.
+* ⚙️ **Automation and Windows tooling:** PC assistants and scripts with safety gates.
 
 ---
 
@@ -97,41 +75,29 @@ PC assistants and scripts with safety gates.
 
 <td width="50%" valign="top">
 
-### 🔎 DocQ
+<h3>🔎 DocQ</h3>
 
-<a href="https://github.com/praneetkamble/docq"><img src="https://raw.githubusercontent.com/praneetkamble/docq/main/docs/03-answer-1.png" width="100%" alt="docq preview"></a>
+<a href="https://github.com/praneetkamble/docq"><img src="assets/docq.jpg" width="100%" alt="DocQ preview"></a>
 
-RAG over your documents. Every answer cites the page it came from.
+RAG over your own documents. Every answer cites the page it came from, so you can check it.
 
-**Highlights:** hybrid retrieval; top result 92% and top five 100% on a 25-question test set
-
-**Stack**
-
-* Python
-* FastAPI
-* Hybrid retrieval (BM25 + vectors)
-
-<a href="https://github.com/praneetkamble/docq">View repo →</a>
+<b>Highlights:</b> 92% top-1 and 100% top-5 on a 25-question test set<br>
+<b>Stack:</b> Python · FastAPI · BM25 + vectors<br>
+<a href="https://github.com/praneetkamble/docq">View repo →</a> &nbsp;
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 LeadAgent
+<h3>🤖 LeadAgent</h3>
 
-<a href="https://github.com/praneetkamble/leadagent"><img src="https://raw.githubusercontent.com/praneetkamble/leadagent/main/docs/02-plan-and-trace.png" width="100%" alt="leadagent preview"></a>
+<a href="https://github.com/praneetkamble/leadagent"><img src="assets/leadagent.jpg" width="100%" alt="LeadAgent preview"></a>
 
-Lead-qualification agent with a human approval step. Approving sends nothing.
+Lead-qualification agent that drafts outreach and waits for human approval. Approving sends nothing.
 
-**Highlights:** human-in-the-loop by design; 19 automated tests
-
-**Stack**
-
-* Python
-* FastAPI
-* Agent loop with step trace
-
-<a href="https://github.com/praneetkamble/leadagent">View repo →</a>
+<b>Highlights:</b> Human-in-the-loop by design · 19 automated tests<br>
+<b>Stack:</b> Python · FastAPI · Agent loop with step trace<br>
+<a href="https://github.com/praneetkamble/leadagent">View repo →</a> &nbsp;
 
 </td>
 
@@ -140,40 +106,28 @@ Lead-qualification agent with a human approval step. Approving sends nothing.
 
 <td width="50%" valign="top">
 
-### 🖥 Delta
+<h3>🖥 Delta</h3>
 
-<a href="https://github.com/praneetkamble/delta"><img src="https://raw.githubusercontent.com/praneetkamble/delta/main/docs/dashboard-desktop.png" width="100%" alt="delta preview"></a>
+<a href="https://github.com/praneetkamble/delta"><img src="assets/delta.jpg" width="100%" alt="Delta preview"></a>
 
-Safety-first Windows PC assistant with a HUD dashboard and a Vibe Coding space.
+Safety-first Windows PC assistant with a HUD dashboard and a built-in Vibe Coding space.
 
-**Highlights:** 693 automated tests; every action goes through one safety gate
-
-**Stack**
-
-* Python
-* FastAPI
-* Windows (pywin32)
-
-<a href="https://github.com/praneetkamble/delta">View repo →</a>
+<b>Highlights:</b> 693 automated tests · one safety gate for every action<br>
+<b>Stack:</b> Python · FastAPI · pywin32<br>
+<a href="https://github.com/praneetkamble/delta">View repo →</a> &nbsp;
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎨 M10 Portfolio
+<h3>🎨 M10 Portfolio</h3>
 
-<a href="https://github.com/praneetkamble/m10-portfolio"><img src="https://raw.githubusercontent.com/praneetkamble/m10-portfolio/main/docs/01-hero.png" width="100%" alt="m10-portfolio preview"></a>
+<a href="https://github.com/praneetkamble/m10-portfolio"><img src="assets/portfolio.jpg" width="100%" alt="M10 Portfolio preview"></a>
 
-Manga-style developer portfolio with all my projects.
+Manga-style developer portfolio that showcases all of my projects, live and mobile-friendly.
 
-**Highlights:** live and deployed; responsive on mobile
-
-**Stack**
-
-* HTML
-* CSS
-* JavaScript
-
+<b>Highlights:</b> Live and deployed · responsive on mobile<br>
+<b>Stack:</b> HTML · CSS · JavaScript<br>
 <a href="https://github.com/praneetkamble/m10-portfolio">View repo →</a> · <a href="https://m-10-nu.vercel.app">Live site →</a>
 
 </td>
@@ -183,41 +137,29 @@ Manga-style developer portfolio with all my projects.
 
 <td width="50%" valign="top">
 
-### 📄 ResumeIQ
+<h3>📄 ResumeIQ</h3>
 
-<a href="https://github.com/praneetkamble/resume_analyser"><img src="https://raw.githubusercontent.com/praneetkamble/resume_analyser/main/Screenshot%202026-06-07%20121049.png" width="100%" alt="resume_analyser preview"></a>
+<a href="https://github.com/praneetkamble/resume_analyser"><img src="assets/resume.jpg" width="100%" alt="ResumeIQ preview"></a>
 
-AI resume analyzer and interview prep coach.
+AI resume analyzer and interview prep coach with ATS scoring and STAR-style practice.
 
-**Highlights:** parses PDF, DOCX and TXT; ATS scoring, keyword gaps, STAR interview coaching
-
-**Stack**
-
-* React
-* TypeScript
-* Python (FastAPI)
-
-<a href="https://github.com/praneetkamble/resume_analyser">View repo →</a>
+<b>Highlights:</b> Parses PDF, DOCX and TXT · keyword-gap analysis<br>
+<b>Stack:</b> React · TypeScript · Python (FastAPI)<br>
+<a href="https://github.com/praneetkamble/resume_analyser">View repo →</a> &nbsp;
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Percentile Predictor
+<h3>📊 Percentile Predictor</h3>
 
-<a href="https://github.com/praneetkamble/percentile-predictor"><img src="https://raw.githubusercontent.com/praneetkamble/percentile-predictor/main/reference-images/screenshot-2026-06-07-113651.png" width="100%" alt="percentile-predictor preview"></a>
+<a href="https://github.com/praneetkamble/percentile-predictor"><img src="assets/percentile.jpg" width="100%" alt="Percentile Predictor preview"></a>
 
 Percentile, rank band and admission-risk estimates for JEE, MHT CET and other entrance exams.
 
-**Highlights:** 10 exam modes; built to be honest that results are estimates
-
-**Stack**
-
-* JavaScript
-* HTML
-* CSS
-
-<a href="https://github.com/praneetkamble/percentile-predictor">View repo →</a>
+<b>Highlights:</b> 10 exam modes · clear that results are estimates<br>
+<b>Stack:</b> JavaScript · HTML · CSS<br>
+<a href="https://github.com/praneetkamble/percentile-predictor">View repo →</a> &nbsp;
 
 </td>
 
@@ -238,12 +180,7 @@ Percentile, rank band and admission-risk estimates for JEE, MHT CET and other en
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praneetkamble&theme=tokyonight" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praneetkamble&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true&disable_animations=true" alt="Streak stats" />
+<img width="100%" src="https://streak-stats.demolab.com?user=praneetkamble&theme=tokyonight&hide_border=true&disable_animations=true&card_width=700&card_height=200" alt="Streak stats" />
 </p>
 
 ---
@@ -277,6 +214,13 @@ Percentile, rank band and admission-risk estimates for JEE, MHT CET and other en
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
+</p>
+
+<p align="center">
+<a href="https://m-10-nu.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://github.com/praneetkamble?tab=repositories">GitHub repos</a> &nbsp;·&nbsp;
+<a href="mailto:praneetkamble051112@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://wa.me/917249364351">WhatsApp</a>
 </p>
 
 ---
